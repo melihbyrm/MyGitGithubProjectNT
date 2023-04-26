@@ -14,5 +14,8 @@ public class AtmProject {
 
         System.out.println("bir kisim kodlar");
         //mlh2
+
+        System.out.println();
+        //nsb3
     }
 }
