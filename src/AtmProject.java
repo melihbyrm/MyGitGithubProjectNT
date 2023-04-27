@@ -18,6 +18,7 @@ public class AtmProject {
         System.out.println();
         //mlh3
         System.out.println();
-	  //localde degisiklik yaptim.	
+	//localde degisiklik yaptim.
+	//remoteda degisiklik yaptim
     }
 }
