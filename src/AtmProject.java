@@ -16,7 +16,8 @@ public class AtmProject {
         //mlh2
 
         System.out.println();
-        //nsb3
+        //mlh3
         System.out.println();
+	  //localde degisiklik yaptim.	
     }
 }
